@@ -3,15 +3,15 @@ const shareBtn = document.getElementById("shareBtn");
 const shareLinks = document.getElementById("shareLinks");
 
 shareBtn.onclick = () => {
-    window.open("https://vt.tokopedia.com/t/ZS9BhS3VKDdyR-CcLbX/", "_blank")
+    window.open("https://vt.tokopedia.com/t/ZS9SaxNf9XEWJ-rIif6/", "_blank")
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://vt.tokopedia.com/t/ZS9BhS3ohspgQ-vxsUN/");
+    window.open("https://s.shopee.co.id/3Vk0N7YnVy");
 }
 
 function openFacebookPage() {
-    window.open("https://vt.tokopedia.com/t/ZS9BhS3VKDdyR-CcLbX/");
+    window.open("https://vt.tokopedia.com/t/ZS9SaxYbHMrkT-1mdCi/");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
